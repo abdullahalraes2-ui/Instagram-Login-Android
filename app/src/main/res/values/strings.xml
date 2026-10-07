@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="instagram">Instagram</string>
+    <string name="email_hint">Email, phone or username</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Log in</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="or">OR</string>
+    <string name="login_with_facebook">Log in with Facebook</string>
+    <string name="no_account">Don't have an account?</string>
+    <string name="sign_up">Sign up.</string>
+</resources>
